@@ -1,0 +1,6 @@
+17-05-2022	17:39:31	d48b66ec-45b2-47c1-ab37-710adf557830	TypeError:  fsPromises.readFil is not a function
+19-05-2022	19:26:00	97d665d2-66a0-4396-bf96-2384c0d8b2fd	Error Not allowe d by CORS
+19-05-2022	21:34:46	d1ae5991-2cc5-49dd-93d9-960d902aa4c0	TypeError req.json is not a function
+19-05-2022	21:36:01	40edf052-a15b-404b-a220-52703bf6bf43	TypeError req.json is not a function
+20-05-2022	16:48:19	9f5cff9f-1878-426d-be2b-8fb455bcac36	Error "expireIn" is not allowed in "options"
+24-05-2022	11:30:11	bf3a2269-fff0-44eb-8600-2c8bffd7bad6	SyntaxError Unexpected token c in JSON at position 10
